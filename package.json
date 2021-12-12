@@ -1,6 +1,6 @@
 {
-  "name": "nfteamwork",
-  "homepage": "http://ikepaul.github.io/nfteamwork",
+  "name": "nfteam",
+  "homepage": "http://ikepaul.github.io/nfteam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
