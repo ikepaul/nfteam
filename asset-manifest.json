@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nfteamwork/static/css/main.a617e044.chunk.css",
+    "main.js": "/nfteamwork/static/js/main.9e1cb2db.chunk.js",
+    "main.js.map": "/nfteamwork/static/js/main.9e1cb2db.chunk.js.map",
+    "runtime-main.js": "/nfteamwork/static/js/runtime-main.19dcb08d.js",
+    "runtime-main.js.map": "/nfteamwork/static/js/runtime-main.19dcb08d.js.map",
+    "static/js/2.377ea438.chunk.js": "/nfteamwork/static/js/2.377ea438.chunk.js",
+    "static/js/2.377ea438.chunk.js.map": "/nfteamwork/static/js/2.377ea438.chunk.js.map",
+    "static/js/3.d0194bea.chunk.js": "/nfteamwork/static/js/3.d0194bea.chunk.js",
+    "static/js/3.d0194bea.chunk.js.map": "/nfteamwork/static/js/3.d0194bea.chunk.js.map",
+    "index.html": "/nfteamwork/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nfteamwork/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.377ea438.chunk.js.LICENSE.txt": "/nfteamwork/static/js/2.377ea438.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nfteamwork/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19dcb08d.js",
+    "static/js/2.377ea438.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9e1cb2db.chunk.js"
+  ]
+}
